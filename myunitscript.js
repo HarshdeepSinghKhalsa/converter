@@ -2,8 +2,8 @@ var feet=document.getElementById('feet');
 var inch=document.getElementById('inch');
 var kmeter=document.getElementById('kmeter');
 var meter=document.getElementById('meter');
-var kmeter=document.getElementById('hour');
-var meter=document.getElementById('minut');
+var hour=document.getElementById('hour');
+var minut=document.getElementById('minut');
 feet.addEventListener('input',function(){
 let f=this.value;
 let i=f*12;
