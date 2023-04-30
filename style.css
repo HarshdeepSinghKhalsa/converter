@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: tahoma;
+}
+h1,h2{
+    text-align: center;
+    margin-top: 40px;
+}
+#container{
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    background-color: lightcoral;
+    border-radius: 10px;
+}
+#bigcont{
+    
+    background-color: aquamarine;
+    border: solid blue;
+    border-radius: 8px;
+    box-shadow: inset;
+    height: 100%;
+}
+.input-div{
+    display: inline-block;
+}
+.inpt{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+}
+label{
+    font-size: 30px;
+   
+}
